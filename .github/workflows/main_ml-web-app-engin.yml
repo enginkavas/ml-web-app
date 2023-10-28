@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'ml-web-app-engin'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B3CE6A8B449141CE8DAD19E30F4E75B7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7B2418E5E01D4E54BD3F557000135935 }}
